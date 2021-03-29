@@ -1,7 +1,7 @@
 # crypto
-
-web presence on the blockchain via IPFS
-Using .crypto domain to accept crypto payments.
+![driven group](https://github.com/drivengroup/crypto/blob/main/assets/img/screen2.JPG "Driven Group Brand")
+#web presence on the blockchain via IPFS
+##Using .crypto domain to accept crypto payments.
 
 ![driven group](https://github.com/drivengroup/crypto/blob/main/assets/img/screen1.JPG "Driven Group Brand")
 
