@@ -1,5 +1,17 @@
 # drivengroup.crypto
-# web presence on the blockchain via IPFS 
+
+
+
+
+![](https://img.shields.io/badge/IPFs-presence-orange "")
+![](https://img.shields.io/github/issues/drivengroup/crypto "")
+![](https://img.shields.io/github/forks/drivengroup/crypto "")
+![](https://img.shields.io/github/license/drivengroup/crypto "")
+
+
+
+# web presence on the blockchain via IPFS
+
 ### Using .crypto domain to accept crypto payments.
 
 
